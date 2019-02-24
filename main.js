@@ -24,6 +24,7 @@ function pagination() {
     '<a href="https://www.oyuna-erica.com/blog20">20</a>' +
     '<a href="https://www.oyuna-erica.com/blog21">21</a>' +
     '<a href="https://www.oyuna-erica.com/blog22">22</a>' +
+    '<a href="https://www.oyuna-erica.com/blog23">23</a>' +
     '<a href="#">&raquo;</a> </div>' +
     "</div>";
 
