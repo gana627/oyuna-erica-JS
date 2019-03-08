@@ -1,6 +1,6 @@
 function pagination() {
   var text =
-    '<div class="pagination"> <a href="#">&laquo;</a>' +
+    '<div class="center"><div class="pagination"> <a href="#">&laquo;</a>' +
     '<a href="https://www.oyuna-erica.com/blog">1</a>' +
     '<a href="https://www.oyuna-erica.com/blog2">2</a>' +
     '<a href="https://www.oyuna-erica.com/blog3">3</a>' +
@@ -27,7 +27,7 @@ function pagination() {
     '<a href="https://www.oyuna-erica.com/blog24">24</a>' +
     '<a href="https://www.oyuna-erica.com/blog25">25</a>' +
     '<a href="#">&raquo;</a> ' +
-    "</div>";
+    "</div></div>";
 
   document.write(text);
 }
