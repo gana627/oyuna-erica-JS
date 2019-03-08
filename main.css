@@ -138,13 +138,22 @@
   }
 
   .pagination a.active {
-    background-color: #2a1e66;
-    color: white;
+    background-color: #d3eee7;
+    color: #2a1e66;
     border: 1px solid #4caf50;
   }
+
+  .pagination a.dot {
+    border: 0px solid red;
+    
+    
+  }
+
+
 
   .pagination a:hover:not(.active) {
     background-color: #d3eee7;
   }
 
+ 
   /* Paginaion End */
