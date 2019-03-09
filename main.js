@@ -128,5 +128,11 @@ function pagination2() {
     '">&raquo;</a>' +
     "</div></div>";
 
+  
+if (final == '<div class="center"><div class="pagination"><a href="https://www.oyuna-erica.com/blogNaN">&laquo;</a><a href="https://www.oyuna-erica.com/blog1">1</a><a href="#" onclick="return false;">...</a><a href="https://www.oyuna-erica.com/blog25">25</a><a href="https://www.oyuna-erica.com/blogNaN">&raquo;</a></div></div>'){
+pagination();
+}else{
   document.write(final);
+}
+  
 }
