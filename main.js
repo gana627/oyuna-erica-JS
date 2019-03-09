@@ -1,4 +1,4 @@
-function pagination2() {
+function pagination() {
   var text =
     '<div class="center"><div class="pagination"> <a href="#">&laquo;</a>' +
     '<a href="https://www.oyuna-erica.com/blog">1</a>' +
@@ -61,7 +61,7 @@ function topnavFunction() {
   }
 }
 
-function pagination() {
+function pagination2() {
   var x = window.location.href;
   var y = x.substring(32);
   var current = parseInt(y);
