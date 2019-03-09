@@ -63,11 +63,13 @@ function topnavFunction() {
 
 function pagination2() {
   var x = document.URL;
-  num = x.substring(32);
+  var n = x.search("blog");
+  var num = x.substring(n + 4,);
 
-  var current = num,
-    last = 25,
-    delta = 2,
+  var current = 10;
+  var last = 25;
+
+  var delta = 2,
     left = current - delta,
     right = current + delta + 1,
     range = [],
