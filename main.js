@@ -69,7 +69,8 @@ function pagination2() {
 console.log(y)
 
 
-  var current = y;
+  var current = parseInt(y);
+  console.log(current)
   var last = 25;
 
   var delta = 2,
