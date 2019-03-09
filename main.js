@@ -62,9 +62,7 @@ function topnavFunction() {
 }
 
 function pagination2() {
-  var x = document.URL;
-  var n = x.search("blog");
-  var num = x.substring(n + 4,);
+  
 
   var current = 10;
   var last = 25;
