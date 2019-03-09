@@ -69,7 +69,7 @@ function pagination2() {
 console.log(y)
 
 
-  var current = 10;
+  var current = y;
   var last = 25;
 
   var delta = 2,
