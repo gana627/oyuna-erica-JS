@@ -128,5 +128,5 @@ function pagination2() {
     '">&raquo;</a>' +
     "</div></div>";
 
-  document.write(final);
+  document.write("final");
 }
