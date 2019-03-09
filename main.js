@@ -63,6 +63,11 @@ function topnavFunction() {
 
 function pagination2() {
   
+  var x = window.location.href;
+  console.log(x)
+  var y = x.substring(32)
+console.log(y)
+
 
   var current = 10;
   var last = 25;
