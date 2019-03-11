@@ -51,6 +51,20 @@ function navigation() {
 
   document.write(text1);
 }
+function navigation_en() {
+  var text1 =
+    '<div class="topnav" id="myTopnav">' +
+    '<a href="https://oyuna-erica2018.com/home">Home</a>' +
+    '<a href="https://oyuna-erica2018.com/about">About</a>' +
+    '<a href="https://oyuna-erica2018.com/products22457876">Product</a>' +
+    '<a href="https://oyuna-erica2018.com/contact">Contact</a>' +
+    
+  
+    '<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="topnavFunction()">&#9776;</a>' +
+    "</div>";
+
+  document.write(text1);
+}
 
 function topnavFunction() {
   var x = document.getElementById("myTopnav");
