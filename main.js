@@ -41,7 +41,7 @@ function navigation() {
     '<a href="https://www.oyuna-erica.com/tourism">TourNZ</a>' +
     '<a href="https://www.oyuna-erica.com/previous_webinar">Webinar</a>' +
     '<a href="https://www.oyuna-erica.com/product">Product</a>' +
-    '<a href="https://www.oyuna-erica.com/event">Event</a>' +
+    '<a href="https://www.oyuna-erica.com/auto-webinar-registration">Event</a>' +
     '<a href="https://www.oyuna-erica.com/blog">Blog</a>' +
     '<a href="https://www.oyuna-erica.com/english-lesson23568318">Free Training</a>' +
     '<a href="https://www.oyuna-erica.com/affiliate_page">Affiliate</a>' +
