@@ -38,6 +38,7 @@ function navigation() {
     '<div class="topnav" id="myTopnav">' +
     '<a href="https://www.oyuna-erica.com/">Home</a>' +
     '<a href="https://www.oyuna-erica.com/about">About</a>' +
+    '<a href="https://www.oyuna-erica.com/done-for-you">DFY</a>' +
     '<a href="https://www.oyuna-erica.com/store">Store</a>' +
     '<a href="https://www.oyuna-erica.com/tourism">TourNZ</a>' +
     '<a href="https://www.oyuna-erica.com/previous_webinar">Webinar</a>' +
