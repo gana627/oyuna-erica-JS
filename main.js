@@ -61,7 +61,8 @@ function navigation_en() {
     '<a href="https://oyuna-erica2018.com/dfy_eng">DFY</a>' +
     '<a href="https://oyuna-erica2018.com/products22457876">Product</a>' +
     '<a href="https://oyuna-erica2018.com/contact">Contact</a>' +
-    '<a href="https://www.oyuna-erica.com/onefunnelaway">Membership</a>' +
+    '<a href="https://oyuna-erica2018.com/onefunnelaway">Service</a>' +
+    '<a href="https://oyuna-erica2018.com/onefunnelaway">Membership</a>' +
     
   
     '<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="topnavFunction()">&#9776;</a>' +
