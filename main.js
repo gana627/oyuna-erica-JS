@@ -63,9 +63,9 @@ function navigation_en() {
     '<a href="https://oyuna-erica2018.com/store">Store</a>' +
     '<a href="https://oyuna-erica2018.com/tourism">TourNZ</a>' +
     '<a href="https://oyuna-erica2018.com/products22457876">Product</a>' +
-    '<a href="https://oyuna-erica2018.com/contact">Contact</a>' +
     '<a href="https://oyuna-erica2018.com/onefunnelaway">Service</a>' +
     '<a href="https://oyuna-erica2018.com/freetraining">Free Training</a>' +
+    '<a href="https://oyuna-erica2018.com/contact">Contact</a>' +
     '<a href="https://oyuna-erica2018.com/membership-area27653555">Membership</a>' +
     
   
