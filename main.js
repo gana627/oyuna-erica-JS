@@ -29,6 +29,7 @@ function pagination() {
     '<a href="https://www.oyuna-erica.com/blog26">26</a>' +
     '<a href="https://www.oyuna-erica.com/blog27">27</a>' +
     '<a href="https://www.oyuna-erica.com/blog28">28</a>' +
+    '<a href="https://www.oyuna-erica.com/blog29">29</a>' +
     '<a href="#">&raquo;</a> ' +
     "</div></div>";
 
@@ -56,6 +57,7 @@ function navigation() {
 
   document.write(text1);
 }
+
 function navigation_en() {
   var text1 =
     '<div class="topnav" id="myTopnav">' +
@@ -69,8 +71,8 @@ function navigation_en() {
     '<a href="https://oyuna-erica2018.com/freetraining">Free Training</a>' +
     '<a href="https://oyuna-erica2018.com/contact">Contact</a>' +
     '<a href="https://oyuna-erica2018.com/membership-area27653555">Membership</a>' +
-    
-  
+
+
     '<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="topnavFunction()">&#9776;</a>' +
     "</div>";
 
@@ -153,11 +155,11 @@ function pagination2() {
     '">&raquo;</a>' +
     "</div></div>";
 
-  
-if (final == '<div class="center"><div class="pagination"><a href="https://www.oyuna-erica.com/blogNaN">&laquo;</a><a href="https://www.oyuna-erica.com/blog1">1</a><a href="#" onclick="return false;">...</a><a href="https://www.oyuna-erica.com/blog25">25</a><a href="https://www.oyuna-erica.com/blogNaN">&raquo;</a></div></div>'){
-pagination();
-}else{
-  document.write(final);
-}
-  
+
+  if (final == '<div class="center"><div class="pagination"><a href="https://www.oyuna-erica.com/blogNaN">&laquo;</a><a href="https://www.oyuna-erica.com/blog1">1</a><a href="#" onclick="return false;">...</a><a href="https://www.oyuna-erica.com/blog25">25</a><a href="https://www.oyuna-erica.com/blogNaN">&raquo;</a></div></div>') {
+    pagination();
+  } else {
+    document.write(final);
+  }
+
 }
