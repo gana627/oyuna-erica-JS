@@ -55,9 +55,9 @@ function navigation() {
     '<a href="https://www.oyuna-erica.com/product">Product</a>' +
     '<a href="https://www.oyuna-erica.com/auto-webinar-registration">Event</a>' +
     '<a href="https://www.oyuna-erica.com/blog">Blog</a>' +
-    '<a href="https://www.oyuna-erica.com/english-lesson23568318">Free Ts</a>' +
+    '<a href="https://www.oyuna-erica.com/english-lesson23568318">Free Training</a>' +
     '<a href="https://www.oyuna-erica.com/live">Live</a>' +
-    '<a href="https://www.oyuna-erica.com/affiliate_page">Affiliate</a>' +
+    '<a href="https://www.oyuna-erica.com/affiliate_page">Affil</a>' +
     '<a href="https://www.oyuna-erica.com/login">Login</a>' +
     '<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="topnavFunction()">&#9776;</a>' +
     "</div>";
