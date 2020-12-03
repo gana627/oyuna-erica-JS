@@ -50,8 +50,8 @@ function pagination() {
     '<a href="https://www.oyuna-erica.com/blog47">47</a>'  +
       '<a href="https://www.oyuna-erica.com/blog48">48</a>'  +
     '<a href="https://www.oyuna-erica.com/blog49">49</a>'  +
-      '<a href="https://www.oyuna-erica.com/blog49">49</a>'  +
-    '<a href="https://www.oyuna-erica.com/blog50">50</a>'  +
+      '<a href="https://www.oyuna-erica.com/blog50">50</a>'  +
+    '<a href="https://www.oyuna-erica.com/blog51">51</a>'  +
 
         
     '<a href="#">&raquo;</a> ' +
